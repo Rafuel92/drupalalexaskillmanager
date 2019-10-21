@@ -1,5 +1,5 @@
-const DRUPAL_HOST_NAME = '%hostnameplaceholder%';
-const DRUPAL_PROTOCOL = '%protocolplaceholder%';
+const DRUPAL_HOST_NAME = '%hostnameplaceholder%'; //i.e mywebsite.com
+const DRUPAL_PROTOCOL = '%protocolplaceholder%'; //http or https
 
 const config = {
     "hostname" : DRUPAL_HOST_NAME,
