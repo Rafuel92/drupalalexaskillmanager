@@ -8,7 +8,7 @@ async function httpPost(host,data, callback) {
 
     const options = {
         hostname: config.hostname,
-        path: '/alexa_skill_generator/respond',
+        path: '/alexa_skill_manager/respond',
         method: 'POST',
         headers: {
             'Content-Type': 'application/json',
